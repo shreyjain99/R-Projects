@@ -12,19 +12,12 @@
 
 <body>
     <ul>
-        <li><strong><ins>Harvest Horizons: California's Yield Patterns</ins>  --> Created visualizations to understand yield patterns in these counties over the years 1971-1975.</li>
+        <li><strong><ins>BookBinders Book Club</ins>  --> The primary objective of the BookBinders Book Club project is to improve the profitability of their direct marketing efforts by using logistic regression to predict customer responses to book offers. The company aims to enhance its mailing yields and profits by better targeting customers who are more likely to make purchases, thus optimizing the use of its marketing resources</li>
           
-  <li><strong><ins>Market Based Analysis</ins> --> Analyzed the Instacart dataset to identify purchasing patterns and trends, such as frequently bought items and common product combinations, to enhance product recommendations and improve customer shopping experiences.</li>
+  <li><strong><ins>Predictive Customer Retention Strategy</ins> --> The project involves analyzing the dataset, which includes customer data divided into calibration and validation subsets. The calibration data has an artificially high churn rate to help identify churners' profiles. The primary task is to develop a logistic regression model to predict customer churn and use these predictions to create retention strategies.</li>
         
-  <li><strong><ins>Risk of Energy Infrastructure to Natural Disaster</ins> --> The objective is to find out top 4 natural disasters impacting a corporation (exxon mobil) in the energy industry.</li>
+  <li><strong><ins>Hypothesis Testing using R</ins> -->  The project focuses on hypothesis testing and statistical analysis using various datasets and statistical techniques using R</li>
     
-  <li><strong><ins>Superstore-Charts</ins> --> Made charts in Tableau by implementing join, aggregation, sort and filter techniques in a worksheet. Using superstore data provided by tableau. </li>
-    
-  <li><strong><ins>Visualizing University Food Court Sales with TreeMaps</ins> --> Utilizing the TreeMap visualization technique to analyze and present university food court data effectively.</li>
-    
-  <li><strong><ins>TitanicViz - Tableau integrated analysis of R</ins> --> Performed K-means clustering analysis using R and visualizing the results with Tableau</li>
-    
-  <li><strong><ins>Largest cities (PowerBI)</ins> --> transformed raw data into a format suitable for creating animated visualizations and utilizing PowerBI's features to analyze and present data effectively</li>
           
   </ul>
 </body>
